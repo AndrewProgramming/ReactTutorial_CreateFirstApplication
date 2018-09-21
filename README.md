@@ -35,4 +35,4 @@ For now we have successfully finish creating a new React application.
 
 ## Source code
 
-[Github](
+[Github](https://github.com/AndrewProgramming/ReactTutorial_CreateFirstApplication)
